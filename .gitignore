@@ -1,0 +1,16 @@
+syntax:glob
+.git
+.hg
+.venv/
+.coverage
+.pytest_cache/
+_data/
+_ext/
+_trash/
+_htmlcov/
+__pycache__
+envs/
+.ipynb_checkpoints/
+*.ipynb
+*.sage-jupyter2
+*.term
