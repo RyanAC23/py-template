@@ -1,4 +1,4 @@
-# py-template
+s# py-template
 
 Template repository for Python projects.
 
