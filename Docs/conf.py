@@ -10,14 +10,14 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
- # import os
- # import sys
- # sys.path.insert(0, os.path.abspath('.'))
+# import os
+# import sys
+# sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- Project information -----------------------------------------------------
 
-project = "kepler"
+project = "template"
 copyright = "2022, Ryan AC"
 author = "Ryan AC"
 
@@ -42,10 +42,10 @@ extensions = [
     "sphinx.ext.napoleon",
     "sphinx.ext.todo",
     "sphinx.ext.viewcode",
-#    "sphinxcontrib.bibtex",
+    #    "sphinxcontrib.bibtex",
     "sphinxcontrib.zopeext.autointerface",
     "matplotlib.sphinxext.plot_directive",
-#    "sphinx_comments",  # Hypothes.is comments and annotations
+    #    "sphinx_comments",  # Hypothes.is comments and annotations
     "sphinx_panels",
 ]
 
